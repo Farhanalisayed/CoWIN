@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.the-cont{
+    background-color:#161625;
+    min-height:100vh;
+    background-size: cover;
+    
+}
+.the-cont{
+    display: flex;
+    flex-direction:row;
+}
+.head{
+    color:#2cc6c6;
+    font-size:15px;
+}
+.image{
+    height:15px;
+    width:15px;
+    margin-right:5px;
+}
+.heading{
+    color:white;
+    font-size:20px;
+}
